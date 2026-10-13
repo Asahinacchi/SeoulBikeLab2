@@ -144,4 +144,4 @@ with DAG(
 
     # Зависимость задач
     wait_for_primary_source >> load_to_raw_task
-    
+
