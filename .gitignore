@@ -13,3 +13,4 @@ dbt/target/
 dbt/logs/
 *.log
 .DS_Store
+logs/
